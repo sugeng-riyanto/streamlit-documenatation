@@ -1,7 +1,8 @@
 import streamlit as st
 
 def main():
-    st.title('FOrm using Streamlit. @Pak Sugeng')
+    st.title('Form using Streamlit')
+    st.subheader('by Pak Sugeng')
 
     # Text Input
     st.subheader('Text Input')
