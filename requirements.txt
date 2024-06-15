@@ -1,5 +1,2 @@
-streamlit
-pandas
-numpy
-st-aggrid
-streamlit-drawable-canvas
+pip==23.0.1
+streamlit==1.12.0
